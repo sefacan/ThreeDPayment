@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "UnSuccess";
+}
+<h2>UnSuccess</h2>
+<table>
+    <thead>
+        <tr>
+            <td><b>Name:</b></td>
+            <td><b>Value:</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            System.Collections.IEnumerator e = Request.Form.GetEnumerator();
+            while (e.MoveNext())
+            {
+                string xkey = e.Current as string;
+                string xval = Request.Form.Get(xkey);
+                <tr>
+                    <td>@xkey</td>
+                    <td>@xval</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@model ThreeDPayment.Models.CreditCardModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.TextBoxFor(x => x.HolderName, new { @placeholder = "Kart Sahibi" })
+    <br /><br />
+    @Html.TextBoxFor(x => x.CardNumber, new { @placeholder = "Kart No" })
+    <br /><br />
+    @Html.TextBoxFor(x => x.ExpireMonth, new { @placeholder = "Ay[AA]" })
+    <br /><br />
+    @Html.TextBoxFor(x => x.ExpireYear, new { @placeholder = "Yıl[YY]" })
+    <br /><br />
+    @Html.TextBoxFor(x => x.CV2, new { @placeholder = "Güvenlik Kodu" })
+    <br /><br />
+    <input type="submit" value="Ödeme Yap" />
+}
