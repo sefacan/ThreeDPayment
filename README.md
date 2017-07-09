@@ -1,7 +1,7 @@
 # ThreeDPayment
 > **Not:**
-> - Asp.Net MVC 5 ile geliştirilmiş Est destekli tüm bankalarla uyumlu çalışabilen 3DPay modeline sahip sanal pos entegrasyonu.
-> - Bankalardan aldığımız döküman ve yardımlar yetersiz kaldığı ve internette yeteri kadar açık anlatılmadığı için bu projenin gerekli olduğunu düşündüm.
+> - Asp.Net MVC 5 ile geliştirilmiş Est altyapılı tüm bankalarla çalışabilen 3DPay modeline sahip sanal pos örneği.
+> - Bankalardan aldığımız döküman ve destek yetersiz kaldığı ve internette yeteri kadar açık anlatılmadığı için bu projenin gerekli olduğunu düşündüm.
 > - Günümüz modern E-ticaret siteleri SMS onaylı ödeme kabul ederek kayıp/çalıntı kart ve şüpheli işlemlerinin önüne geçmektedir.
 > - Bu entegrasyon ile sizde e-ticaret sitenizde güvenli ve başarılı ödemeler alabilirsiniz.
 > - Konu ile alakalı bana fsefacan@gmail.com adresinden ulaşabilirsiniz.
