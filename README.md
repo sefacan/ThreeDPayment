@@ -7,8 +7,8 @@
 <p>Konu ile alakalı bana fsefacan@gmail.com adresinden ulaşabilirsiniz.</p>
 
 #### Test Credit Card
-Kart Numarası (Visa) : 4508034508034509
-Kart Numarası (Master Card) : 5406675406675403
+<span><b>Kart Numarası (Visa) :</b> 4508034508034509</span>
+<span>Kart Numarası (Master Card) : 5406675406675403</span>
 Son Kullanma Tarihi : 12/18
 Güvenlik Numarası : 000
 Kart 3D Secure Şifresi : a
