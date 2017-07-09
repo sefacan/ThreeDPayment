@@ -7,8 +7,8 @@
 > - Konu ile alakalı bana fsefacan@gmail.com adresinden ulaşabilirsiniz.
 
 #### Test Credit Card
-<b>Kart Numarası (Visa) :</b> 4508034508034509
-<b>Kart Numarası (Master Card) :</b> 5406675406675403
-<b>Son Kullanma Tarihi :</b> 12/18
-<b>Güvenlik Numarası :</b> 000
-<b>Kart 3D Secure Şifresi :</b> a
+<p><b>Kart Numarası (Visa) :</b> 4508034508034509</p>
+<p><b>Kart Numarası (Master Card) :</b> 5406675406675403</p>
+<p><b>Son Kullanma Tarihi :</b> 12/18</p>
+<p><b>Güvenlik Numarası :</b> 000</p>
+<p><b>Kart 3D Secure Şifresi :</b> a</p>
