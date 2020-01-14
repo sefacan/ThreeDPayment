@@ -12,3 +12,5 @@
 <p><b>Son Kullanma Tarihi :</b> 12/18</p>
 <p><b>Güvenlik Numarası :</b> 000</p>
 <p><b>Kart 3D Secure Şifresi :</b> a</p>
+
+### Sorularınız için lütfen issue bölümünden bir konu açın. 
