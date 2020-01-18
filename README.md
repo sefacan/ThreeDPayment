@@ -1,4 +1,7 @@
 # ThreeDPayment
+
+ASP.NET Core 3.1 ile yazılan yeni version https://github.com/sefacan/3DPaymentAspNetCore
+
 > **Not:**
 > - Asp.Net MVC 5 ile geliştirilmiş Est altyapılı tüm bankalarla çalışabilen 3DPay modeline sahip sanal pos örneği.
 > - Bankalardan aldığımız döküman ve destek yetersiz kaldığı ve internette yeteri kadar açık anlatılmadığı için bu projenin gerekli olduğunu düşündüm.
